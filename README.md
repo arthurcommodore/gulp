@@ -3,7 +3,7 @@
 
 ## Todo o projeto é configurações para gerar o build da aplicação, em diversos senários, do mais simples ao mais complexo.
 
-### Foi feito as configurações mais simples do gulp, até configurações do gulp em cenários reais com um projeto completo.
+## Foi feito as configurações mais simples do gulp, até configurações do gulp em cenários reais com um projeto completo.
 
 
 ### Na pasta typescript tem configurações de build para somente a utilização do Typescript
