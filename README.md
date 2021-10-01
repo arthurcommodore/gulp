@@ -8,7 +8,7 @@
 
 ### Na pasta typescript tem configurações de build para somente a utilização do Typescript
 ### Na pasta javascript tem configurações de build para somente a utilizaçao do Javascript
-## Na pasta spa tem configurações de build em projeto completo, utilizando SASS, Javascript e HTML
+### Na pasta spa tem configurações de build em projeto completo, utilizando SASS, Javascript e HTML
 
 
 
